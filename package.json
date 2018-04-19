@@ -1,0 +1,22 @@
+{
+  "name": "tori-anime",
+  "version": "1.0.0",
+  "description": "a site for Tori to keep track of all her Anime",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thegouge/tori-anime.git"
+  },
+  "author": "thegouge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thegouge/tori-anime/issues"
+  },
+  "homepage": "https://github.com/thegouge/tori-anime#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}

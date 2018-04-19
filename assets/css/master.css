@@ -73,7 +73,7 @@ header {
 /* FOOTER */
 footer {
     text-align: center;
-    padding: 30px;
+    padding: 10px;
 }
     footer img {
         display: block;
@@ -81,6 +81,4 @@ footer {
         margin-bottom: 5px;
         width: 70px;
         border-radius: 50%;
-    }
-    footer span {
     }
