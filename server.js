@@ -3,9 +3,9 @@ var app = express();
 const fs = require('fs');
 var port = 3000;
 
-app.use(express.static('public'));
+app.use(express.static('docs'));
 
-app.get('/', function(req, res) {
+app.get('/index.html', function(req, res) {
     var name = req.query.name;
     var age = req.query.age;
 
