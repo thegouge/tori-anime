@@ -2,7 +2,7 @@
   "name": "tori-anime",
   "version": "1.0.0",
   "description": "a site for Tori to keep track of all her Anime",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
